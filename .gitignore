@@ -39,6 +39,9 @@ server/config
 # Sequelize migrate directories
 server/migrations
 
+# VSC config directories
+.vscode
+
 # =========================
 # Operating System Files
 # =========================
