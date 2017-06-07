@@ -38,4 +38,4 @@ clone repo 後，需按照以下步驟執行
 
     將會根據資料庫設定檔自動建立表格及欄位
     (非全域安裝需使用 node_modules\.bin\sequelize)
-4.  $ node index.js
+4.  $ npm start
